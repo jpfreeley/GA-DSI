@@ -1,11 +1,11 @@
-,location,company,jkid,title,salary,stars,reviews,post_date,pull_date
-0,"Manhattan, NY",JPMorgan Chase,7acc50463aab0cd5,Digital Data Scientist,,44.4,10697,1 day,2016-10-15 18:28:54.466089
-1,"New York, NY 10003 (Greenwich Village area)",Verizon,c50d1284a8b58184,Data Scientist - Entry Level,,44.4,11108,4 days,2016-10-15 18:28:54.466089
-2,"New York, NY",Quovo,d440cf741745f761,Data Scientist,,,,1 day,2016-10-15 18:28:54.466089
-3,"New York, NY 10032 (Washington Heights area)",Morgan Stanley,f0b32c73f8383044,Data Scientist / Modeler,,44.4,1523,5 days,2016-10-15 18:28:54.466089
-4,"New York, NY 10003 (Greenwich Village area)",Verizon,cdb4ec912f0a7ad7,Data Scientist,,44.4,11108,4 days,2016-10-15 18:28:54.466089
-5,"New York, NY 10014 (West Village area)",Squarespace,720492247ff1279e,Data Scientist,,55.199997,15,1 day,2016-10-15 18:28:54.466089
-6,"New York, NY",Dataiku,27d9f7a620783cde,Data Scientist - USA,,,,9 days,2016-10-15 18:28:54.466089
-7,"New York, NY",WebMD,dc83aef5bd9a2b7f,Data Scientist,,42.6,79,3 days,2016-10-15 18:28:54.466089
-8,"New York, NY",Barclays,da51764d46d036c7,Data Scientist,,51.0,2188,2 days,2016-10-15 18:28:54.466089
-9,"New York, NY",Macy's,40d1d5104c41e124,Data Scientist,,43.2,14170,10 days,2016-10-15 18:28:54.466089
+,location,company,summary,jkid,title,salary,stars,reviews,post_date,pull_date,search_city
+0,"New York, NY 10003 (Greenwich Village area)",The Nielsen Company,"Minimum of 3+ years relevant analytics and data mining & modeling work experience, with a particular stress on supervised learning....",11b2c6106873140f,Data Scientist,,43.2,676,12 hours,2016-10-17 21:23:17.900573,New York
+1,"New York, NY 10014 (West Village area)",Squarespace,"Impressive skill with a major programming language (Python, C++, Java) and/or analytics tool (Pandas, R, SQL, Excel), preferably both....",720492247ff1279e,Data Scientist,,55.199997,15,3 days,2016-10-17 21:23:17.900573,New York
+2,"New York, NY 10032 (Washington Heights area)",Morgan Stanley,The Modeling team and other MSSM project based teams such as Core Analytics and Core Electronic Trading provide quantitative solutions to multiple....,fe65822ddca4a793,Data Scientist / Modeler,,44.4,1523,7 days,2016-10-17 21:23:17.900573,New York
+3,"New York, NY",Barclays,"Or Master’s Degree in operations research, applied statistics, data mining, machine learning, physics or a related quantitative discipline....",da51764d46d036c7,Data Scientist,,51.0,2189,4 days,2016-10-17 21:23:17.900573,New York
+4,"New York, NY 10003 (Greenwich Village area)",Verizon,"Knowledge of machine learning, natural language processing, text analytics, regression modeling and statistical analysis methods....",c50d1284a8b58184,Data Scientist - Entry Level,,44.4,11117,6 days,2016-10-17 21:23:17.900573,New York
+5,"New York, NY 10003 (Greenwich Village area)",Verizon,"Familiarity and experience with creating analytical data sets. Master’s Degree in Statistics, Math, Economics, Engineering, Computer Science, Business Analytics...",cdb4ec912f0a7ad7,Data Scientist,,44.4,11117,7 days,2016-10-17 21:23:17.900573,New York
+6,"New York, NY",NBCUniversal,"Experience in handling large data sets, combining data from different sources, data analysis, reporting and insight generation....",3e7a055f247bd8a1,"Data Scientist, Pricing & Yield",,51.6,980,4 days,2016-10-17 21:23:17.900573,New York
+7,"New York, NY",Quovo,"We're looking for developers to expand a data pipeline that spans from retrieval to mining, machine learning and visualization....",d440cf741745f761,Data Scientist,,,,3 days,2016-10-17 21:23:17.900573,New York
+8,"New York, NY 10003 (Greenwich Village area)",SoundCloud,"We’re looking for Data Scientists to join our Data Science team to help us make data-informed decisions across a number of areas in our organization, including...",c5d8b2c107ddc05c,"Data Scientist, Analytics",,,,12 days,2016-10-17 21:23:17.900573,New York
+9,"New York, NY",WebMD,"Medscape, a division of WebMD, develops and hosts physician portals and related mobile applications that make it easier for physicians and healthcare...",dc83aef5bd9a2b7f,Data Scientist,,42.6,79,5 days,2016-10-17 21:23:17.900573,New York

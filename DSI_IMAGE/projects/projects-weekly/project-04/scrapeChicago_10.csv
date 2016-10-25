@@ -1,11 +1,11 @@
-,location,company,jkid,title,salary,stars,reviews,post_date,pull_date
-0,"Chicago, IL","Vizient, Inc.",9a441b69e587736a,Data Scientist,,,,2 days,2016-10-15 18:28:57.290740
-1,"Chicago, IL",BMW Technology Corporation,12c756d844582814,Machine Learning Researcher - BMW Technology Corporation,,,,6 days,2016-10-15 18:28:57.290740
-2,"Chicago, IL",The University of Chicago Medicine,6a38a0586190a6d7,Data Scientist,,52.800003,7,10 days,2016-10-15 18:28:57.290740
-3,"Chicago, IL",Anomalix,711c408ec28cfcaf,Data Scientist,,,,9 days,2016-10-15 18:28:57.290740
-4,"Chicago, IL 60601 (Loop area)",KPMG,470c8353e5469a5b,Data Scientist,,51.0,1768,1 day,2016-10-15 18:28:57.290740
-5,"Chicago, IL",CareSource,33a00338b1ddafdd,Data Scientist with SAS Experience,,42.6,69,21 hours,2016-10-15 18:28:57.290740
-6,"Chicago, IL",Amyx,3e0070b7e8dc8931,Data Scientist,,,,12 days,2016-10-15 18:28:57.290740
-7,"Chicago, IL 60606 (Loop area)",ZirMed,28c603e910a47aed,Data Scientist,,51.0,5,17 days,2016-10-15 18:28:57.290740
-8,"Chicago, IL",Google,f94835ba16f9ce1d,"Machine Learning Deployment Engineer, Professional Services,...",,52.800003,1218,15 days,2016-10-15 18:28:57.290740
-9,"Chicago, IL 60654 (Loop area)",RAY ALLEN,3a982c164ab623ef,Associate Data Scientist,,,,12 days,2016-10-15 18:28:57.290740
+,location,company,summary,jkid,title,salary,stars,reviews,post_date,pull_date,search_city
+0,"Chicago, IL",Brad's Deals,Brad’s Deals is looking for an experienced data scientist to join our team. Develop recommender systems based on behavioral data....,4345e7fc5772b24a,Data Scientist,,,,1 day,2016-10-17 21:23:20.964455,Chicago
+1,"Chicago, IL","Vizient, Inc.","Serves as the resident data expert and share best practices/approaches for statistics, machine learning techniques, data modeling, simulation and advanced...",9a441b69e587736a,Data Scientist,,,,4 days,2016-10-17 21:23:20.964455,Chicago
+2,"Chicago, IL",Anomalix,Data Scientist Responsibilities will include:. Anomalix is looking for strong data scientist candidates to join a team building out our flagship enterprise...,711c408ec28cfcaf,Data Scientist,,,,11 days,2016-10-17 21:23:20.964455,Chicago
+3,"Chicago, IL",BMW Technology Corporation,"Develop novel and useful machine learning and data mining techniques, as well as assess 3rd party machine learning and data mining components....",12c756d844582814,Machine Learning Researcher - BMW Technology Corporation,,,,8 days,2016-10-17 21:23:20.964455,Chicago
+4,"Chicago, IL 60601 (Loop area)",KPMG,"Machine learning, data visualization, statistical modeling, data mining, or information retrieval. KPMG is currently seeking a Data Scientist, to join our...",470c8353e5469a5b,Data Scientist,,51.0,1768,3 days,2016-10-17 21:23:20.964455,Chicago
+5,"Chicago, IL",Amyx,"Seeking a Senior Data Scientist with experience and knowledge of analytics to solve large-scale, enterprise, complex, and challenging business problems....",3e0070b7e8dc8931,Data Scientist,,,,14 days,2016-10-17 21:23:20.964455,Chicago
+6,"Chicago, IL",Google,Experience with data analytics and/or data visualization techniques and software. Experience interpreting technical data and creating reports with data....,f94835ba16f9ce1d,"Machine Learning Deployment Engineer, Professional Services,...",,52.800003,1219,17 days,2016-10-17 21:23:20.964455,Chicago
+7,"Chicago, IL 60606 (Loop area)",ZirMed,"The role will focus on extending machine learning, predictive modeling and data mining components to provide up-to-date intelligence to healthcare providers...",28c603e910a47aed,Data Scientist,,51.0,5,19 days,2016-10-17 21:23:20.964455,Chicago
+8,"Chicago, IL",National Opinion Research Center (NORC),Working knowledge of applied survey sampling and statistics for all modes of social science data collection....,58c12518a1e9f17b,Statistician,,,,4 days,2016-10-17 21:23:20.964455,Chicago
+9,"Chicago, IL 60654 (Loop area)",RAY ALLEN,"Use Qlik Sense along with Excel, Access, MySQL, R, and other tools to clean up, organize, model (ETL), and interpret large data sets....",3a982c164ab623ef,Associate Data Scientist,,,,14 days,2016-10-17 21:23:20.964455,Chicago

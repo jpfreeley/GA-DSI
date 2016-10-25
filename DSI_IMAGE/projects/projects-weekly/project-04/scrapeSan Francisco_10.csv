@@ -1,11 +1,11 @@
-,location,company,jkid,title,salary,stars,reviews,post_date,pull_date
-0,"San Francisco, CA",Macy's,0af2239cd618e17c,Data Scientist (macys.com),,43.2,14170,2 days,2016-10-15 18:28:58.188133
-1,"San Francisco, CA",Hoodline,dd86068e34d0f55a,Machine Learning Data Scientist,,,,2 days,2016-10-15 18:28:58.188133
-2,"San Francisco, CA 94107 (South Of Market area)",Ubisoft,30768ffa71fdfbc4,"Data Scientist, Marketing Analytics",,51.0,68,2 days,2016-10-15 18:28:58.188133
-3,"San Francisco, CA 94107 (South Of Market area)",Doximity,788fdeb8484613ca,Data Scientist - Growth,,,,4 days,2016-10-15 18:28:58.188133
-4,"San Francisco, CA",Stitch Fix,0aab0ad01a77733a,Data Scientist,,40.8,34,2 days,2016-10-15 18:28:58.188133
-5,"San Francisco, CA 94114 (Castro-Upper Market area)",Apple,b1c75056addc71fd,"Software Engineer, Data Scientist",,52.800003,2567,2 days,2016-10-15 18:28:58.188133
-6,"San Francisco, CA",Twitch,85e94cc9adaabf4d,Data Scientist,,55.800003,4,2 days,2016-10-15 18:28:58.188133
-7,"San Francisco, CA",Collective Health,632abb6406e661e9,Data Scientist,,,,3 days,2016-10-15 18:28:58.188133
-8,"San Francisco, CA",Autodesk,84871d782e858e82,Intern Data Scientist for Product Analytics,,52.199997,147,3 days,2016-10-15 18:28:58.188133
-9,"San Francisco, CA 94103 (South Of Market area)",Yelp,0831dc37aed855a5,Data Scientist,,43.8,120,14 days,2016-10-15 18:28:58.188133
+,location,company,summary,jkid,title,salary,stars,reviews,post_date,pull_date,search_city
+0,"San Francisco, CA",Hoodline,Develop machine learning and data mining algorithms to extract meaningful information from thousand to millions articles....,dd86068e34d0f55a,Machine Learning Data Scientist,,,,5 days,2016-10-17 21:23:21.753731,San Francisco
+1,"San Francisco, CA 94107 (South Of Market area)",Ubisoft,"The most commons will be SQL for data extraction, R for data analysis and a. Combination of R and Tableau for data visualization ....",30768ffa71fdfbc4,"Data Scientist, Marketing Analytics",,51.0,68,4 days,2016-10-17 21:23:21.753731,San Francisco
+2,"San Francisco, CA",Zynga,"Probability, statistics, data mining, predictive modeling, experimental design, computational analytics, econometric modeling....",41c2b86261039a04,"Data Scientist, Central Product Management",,44.4,36,4 days,2016-10-17 21:23:21.753731,San Francisco
+3,"San Francisco, CA 94114 (Castro-Upper Market area)",Apple,"We are looking for scientists who are passionate about creating data driven systems and have experience in statistical programming, machine learning, and use of...",b1c75056addc71fd,"Software Engineer, Data Scientist",,52.800003,2573,5 days,2016-10-17 21:23:21.753731,San Francisco
+4,"San Francisco, CA",Macy's,"The Data Scientist function enables and empowers macys.com marketing and site personalization with predictive modeling, forecasting, data mining, experimental...",0af2239cd618e17c,Data Scientist (macys.com),,43.2,14182,4 days,2016-10-17 21:23:21.753731,San Francisco
+5,"San Francisco, CA",Twitch,"We think of Emmett, the CEO, as Twitch’s original data scientist. Professional work as a Data Scientist at a web/mobile product company is preferred, but any...",85e94cc9adaabf4d,Data Scientist,,55.800003,4,4 days,2016-10-17 21:23:21.753731,San Francisco
+6,"San Francisco, CA",Collective Health,"You will develop tools for analytics of both health data and financial data. We are looking for an experienced, full-stack Data Scientist to join the Analytics...",632abb6406e661e9,Data Scientist,,,,5 days,2016-10-17 21:23:21.753731,San Francisco
+7,"San Francisco, CA 94103 (South Of Market area)",Yelp,Endless ideas about how to leverage Yelp's unique data set. Interested in applying? In this role you’ll be tackling a variety of projects ranging from design...,0831dc37aed855a5,Data Scientist,,43.8,120,17 days,2016-10-17 21:23:21.753731,San Francisco
+8,"San Francisco, CA",Stitch Fix,"High skill in data visualization (big plus). Strong skills in statistics, probability, and/or machine learning. Fluency in R, Python, or Julia....",0aab0ad01a77733a,Data Scientist,,40.8,35,4 days,2016-10-17 21:23:21.753731,San Francisco
+9,"San Carlos, CA",Upstart,"This individual will have a tremendous impact on our ability to attract new users and scale our business, and will also have the chance to collaborate cross...",31975e74bcc7ca3d,Growth Data Scientist,,51.0,3,5 days,2016-10-17 21:23:21.753731,San Francisco
